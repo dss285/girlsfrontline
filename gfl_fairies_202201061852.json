@@ -1,0 +1,203 @@
+{
+"gfl_fairies": [
+	{
+		"id" : 1,
+		"name" : "Warrior Fairy",
+		"skill" : "In the next battle, increase the EchelonREPLACEEMYOHEMMINs damage by 20% and rate of fire by 10% for 20 seconds (does not stack) ",
+		"stats" : "+25% Damage|+10% Armor|+80% Accuracy|+40% Evasion",
+		"production_timer" : 16200,
+		"recipe_id" : 1
+	},
+	{
+		"id" : 2,
+		"name" : "Fury Fairy",
+		"skill" : "In the next battle, increase the EchelonREPLACEEMYOHEMMINs Accuracy by 50% and Critical Chance by 25% for 20 seconds (does not stack).",
+		"stats" : "+15% Damage|+10% Armor|+40% Critical Damage|+40% Evasion",
+		"production_timer" : 16500,
+		"recipe_id" : 1
+	},
+	{
+		"id" : 3,
+		"name" : "Armor Fairy",
+		"skill" : "In the next battle, increase the armor of all Shotguns in the echelon by 50% for 20 seconds.",
+		"stats" : "+22% Damage|+22% Critical Damage|+25% Armor",
+		"production_timer" : 10800,
+		"recipe_id" : 1
+	},
+	{
+		"id" : 4,
+		"name" : "Shield Fairy",
+		"skill" : "In the next battle, grant a shieldto all SMGs in the Echelon. Each shield can absorb up to 150 points of damage.",
+		"stats" : "+20% Damage|+60% Accuracy|+80% Evasion",
+		"production_timer" : 11100,
+		"recipe_id" : 1
+	},
+	{
+		"id" : 5,
+		"name" : "Defense Fairy",
+		"skill" : "For one turn, reduce the damage taken by all units within the Echelon by 30% for 20 seconds in all battles.",
+		"stats" : "+22% Damage|+80% Evasion|+20% Armor",
+		"production_timer" : 15000,
+		"recipe_id" : 2
+	},
+	{
+		"id" : 6,
+		"name" : "Taunt Fairy",
+		"skill" : "In the next battle, deploy a target dummy to attract enemy fire, the dummy will have 1600 HP",
+		"stats" : "+18% Damage|+28% Evasion|+25% Critical Damage|+8% Armor|+58% Accuracy",
+		"production_timer" : 11400,
+		"recipe_id" : 1
+	},
+	{
+		"id" : 7,
+		"name" : "Sniper Fairy",
+		"skill" : "In the next battle, aim at the enemy with the highest HP and deal 20000 damage.",
+		"stats" : "+36% Critical Damage|+15% Armor|+88% Accuracy|+28% Evasion",
+		"production_timer" : 12600,
+		"recipe_id" : 1
+	},
+	{
+		"id" : 8,
+		"name" : "Artillery Fairy",
+		"skill" : "In the next battle, launch a mortar shell that deals 1200 damage to enemies within a radius of 2.5.",
+		"stats" : "+55% Damage|+56% Evasion|+6% Armor",
+		"production_timer" : 12900,
+		"recipe_id" : 1
+	},
+	{
+		"id" : 9,
+		"name" : "Airstrike Fairy",
+		"skill" : "In the next battle, call an airstrike when the battle starts, dealing 500 damage to all enemies.",
+		"stats" : "+30% Damage|+10% Armor|+50% Accuracy|+40% Evasion",
+		"production_timer" : 13200,
+		"recipe_id" : 1
+	},
+	{
+		"id" : 10,
+		"name" : "Reinforcement Fairy",
+		"skill" : "Reinforce the T-Doll with the lowest HP % in the echelon with one dummy and increase the EchelonREPLACEEMYOHEMMINs evasion by 10% for 20 seconds in all battles for one turn.",
+		"stats" : "+12% Damage|+12% Armor|+15% Critical Damage|+88% Evasion",
+		"production_timer" : 14400,
+		"recipe_id" : 2
+	},
+	{
+		"id" : 11,
+		"name" : "Parachute Fairy",
+		"skill" : "The Echelon can parachute to any Heliport on the map, but the Echelon will have itsdamage,accuracy, evasion, armor and crit rate reduced by 40% for two turns.",
+		"stats" : "+36% Damage|+8% Armor|+40% Critical Damage|+32% Evasion",
+		"production_timer" : 14700,
+		"recipe_id" : 2
+	},
+	{
+		"id" : 12,
+		"name" : "Landmine Fairy",
+		"skill" : "Bury a mine in adjacent empty node that lasts for two turns. Enemies who step on the mine will receive damage equal to 50% of their current HP. Ineffective against bosses.",
+		"stats" : "+25% Damage|+44% Accuracy|+85% Evasion",
+		"production_timer" : 19800,
+		"recipe_id" : 3
+	},
+	{
+		"id" : 13,
+		"name" : "Rocket Fairy",
+		"skill" : "Deploy a rocket launcher on a designated node. In the next turn, deal 20% of current HP damage to 5 random enemies within a range of 2 nodes. Ineffective against bosses.",
+		"stats" : "+35% Critical Damage|+44% Accuracy|+22% Armor",
+		"production_timer" : 20100,
+		"recipe_id" : 3
+	},
+	{
+		"id" : 14,
+		"name" : "Construction Fairy",
+		"skill" : "Build an immovable fortress at this node. Any allies standing on this node within three turns will gain 30% damage, accuracy, evasion, armor and crit rate if enemis run into them.",
+		"stats" : "+15% Damage|+40% Evasion|+20% Critical Damage|+10% Armor|+50% Accuracy",
+		"production_timer" : 20400,
+		"recipe_id" : 3
+	},
+	{
+		"id" : 15,
+		"name" : "Command Fairy",
+		"skill" : "Increase the EXP gained by the Echelon int he next battle by 25%. (ineffective in EXP mode)",
+		"stats" : "+36% Damage|+8% Armor|+36% Critical Damage|+32% Evasion",
+		"production_timer" : 18000,
+		"recipe_id" : 1
+	},
+	{
+		"id" : 16,
+		"name" : "Rescue Fairy",
+		"skill" : "Increase the chance of obtaining a rare T-Doll in the next battle by a huge amount.",
+		"stats" : "+32% Damage|+80% Accuracy|+64% Evasion",
+		"production_timer" : 18300,
+		"recipe_id" : 1
+	},
+	{
+		"id" : 17,
+		"name" : "Illumination Fairy",
+		"skill" : "During Night Battles, increase the vision range of the Echelon by 2 nodes and the EchelonREPLACEEMYOHEMMINs accuracy by 30% for 20 seconds in all battles for two turns.",
+		"stats" : "+38% Critical Damage|+8% Armor|+90% Accuracy|+32% Evasion",
+		"production_timer" : 18600,
+		"recipe_id" : 1
+	},
+	{
+		"id" : 18,
+		"name" : "Combo Fairy",
+		"skill" : "In the current round this echelon gains one stack of Combo before each battle up to a maximum of three stacks. Each stack lasts for 1 round. Combo effect:When battle begins, raise all alliesREPLACEEMYOHEMMIN damage by 15% and their accuracy by 30% for 20 seconds.",
+		"stats" : "+30% Damage|+15% Critical Damage|+85% Accuracy",
+		"production_timer" : 18900,
+		"recipe_id" : 3
+	},
+	{
+		"id" : 19,
+		"name" : "Barrier Fairy",
+		"skill" : "In the next battle, put up a barrier for all armored allies. Each barrier can absorb damage up to 150% of the unitREPLACEEMYOHEMMINs armor.",
+		"stats" : "+72% Accuracy|+32% Evasion|+22% Armor",
+		"production_timer" : 15300,
+		"recipe_id" : 1
+	},
+	{
+		"id" : 20,
+		"name" : "Golden Fairy",
+		"skill" : "Revelations of destiny shall fill you with determination",
+		"stats" : "+20% Evasion|+50% Evasion|+25% Critical Damage|+12% Armor|+62% Accuracy",
+		"production_timer" : null,
+		"recipe_id" : null
+	},
+	{
+		"id" : 21,
+		"name" : "Cooking Fairy",
+		"skill" : "Randomly apply one offect to your echelon for 30 seconds in next battle:\\r\\nIncrease damage by 20%\\r\\nIncrease rate of fire by 20%\\r\\nIncrease accuracy by 30%\\r\\nIncrease evasion by 25%",
+		"stats" : "+10% Damage|+80% Evasion|+10% Critical Damage|+20% Armor|+20% Accuracy",
+		"production_timer" : null,
+		"recipe_id" : null
+	},
+	{
+		"id" : 22,
+		"name" : "Fireworks Fairy",
+		"skill" : "Color thissmall piece of the sky and the future red! Increase the echelonREPLACEEMYOHEMMINs accuracy by 80% for 10 seconds in the next battle.",
+		"stats" : "+32% Damage|+8% Armor|+75% Accuracy|+32% Evasion",
+		"production_timer" : null,
+		"recipe_id" : null
+	},
+	{
+		"id" : 23,
+		"name" : "Zodiac Fairy",
+		"skill" : "In the next battle, ignite firecrackers to stun the target for 2 seconds and deal 50 damage per second to enemies withinradius of 4 of the target for 5 seconds.",
+		"stats" : "+25% Damage|+20% Armor|+25% Critical Damage|+20% Evasion",
+		"production_timer" : null,
+		"recipe_id" : null
+	},
+	{
+		"id" : 24,
+		"name" : "Beach Fairy",
+		"skill" : "At the start of the battle, summon the tides of summer to push back the enemy while also reducing all enemies move speeds by 25% and their ROF by 25%, with a duration of 5 seconds.",
+		"stats" : "+32% Damage|+32% Critical Damage|+40% Evasion",
+		"production_timer" : null,
+		"recipe_id" : null
+	},
+	{
+		"id" : 25,
+		"name" : "Twin Fairies",
+		"skill" : "In the next battle, summon 2 symbiotic Fairy clones with 750HP, A Shield Fairy clone has 20 armor and deals 150 DMG every two seconds to enemies within a radius of 2 units of the nearest enemy. A Missile Fairy clone has 30 EVA and deals 450DMG every two seconds to the furthest enemy.",
+		"stats" : "+18% Damage|+12% Armor|+60% Accuracy|+48% Evasion",
+		"production_timer" : 16800,
+		"recipe_id" : 1
+	}
+]}

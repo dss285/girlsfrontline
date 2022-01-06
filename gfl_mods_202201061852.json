@@ -1,0 +1,21 @@
+{
+"gfl_mods": [
+	{
+		"id" : 1,
+		"doll_id" : 45,
+		"speq_id" : 58,
+		"skill_1" : "Increases all alliesREPLACEEMYOHEMMIN damage by 25% for 8 seconds.",
+		"skill_2" : "Increase all alliesREPLACEEMYOHEMMIN rate of fire and accuracy by 5% for every 4 seconds that SAA is alive in battle. Max 3 stacks.",
+		"formation_bonus" : "Affects ALL\\r\\nIncreases damage by 24%\\r\\nIncreases accuracy by 60%",
+		"formation_tiles" : "020\\r\\n212\\r\\n020"
+	},
+	{
+		"id" : 2,
+		"doll_id" : 85,
+		"speq_id" : null,
+		"skill_1" : "Launch a grenade that deals 16x damage to enemies within a radius of 1.5.",
+		"skill_2" : "If Anti-Personnel Grenade kills the main target, deal 3x damage to enemies within a radius of 4.\\r\\nIf Anti-Personnel Grenade does not kill the main target, deal 0,6x damage every 0.5 second and increase the damage taken by the target by 20% for 3 seconds.",
+		"formation_bonus" : "Affects SMG\\r\\nIncreases damage by 45%",
+		"formation_tiles" : "002\\r\\n012\\r\\n000"
+	}
+]}

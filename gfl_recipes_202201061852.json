@@ -1,0 +1,75 @@
+{
+"gfl_recipes": [
+	{
+		"id" : 1,
+		"manpower" : 500,
+		"ammo" : 500,
+		"rations" : 500,
+		"parts" : 500,
+		"name" : "General Fairy Recipe"
+	},
+	{
+		"id" : 2,
+		"manpower" : 2000,
+		"ammo" : 500,
+		"rations" : 2000,
+		"parts" : 1000,
+		"name" : "Defense, Reinforcement, Parachute Fairy recipe"
+	},
+	{
+		"id" : 3,
+		"manpower" : 500,
+		"ammo" : 2000,
+		"rations" : 2000,
+		"parts" : 1000,
+		"name" : "Combo, Landmine, Rocket, Construction Fairy recipe"
+	},
+	{
+		"id" : 4,
+		"manpower" : 8000,
+		"ammo" : 1000,
+		"rations" : 8000,
+		"parts" : 4000,
+		"name" : "Shotgun Recipe"
+	},
+	{
+		"id" : 5,
+		"manpower" : 130,
+		"ammo" : 130,
+		"rations" : 130,
+		"parts" : 30,
+		"name" : "Handgun Recipe"
+	},
+	{
+		"id" : 6,
+		"manpower" : 400,
+		"ammo" : 400,
+		"rations" : 91,
+		"parts" : 30,
+		"name" : "SMG Recipe"
+	},
+	{
+		"id" : 7,
+		"manpower" : 400,
+		"ammo" : 91,
+		"rations" : 400,
+		"parts" : 30,
+		"name" : "Rifle Recipe"
+	},
+	{
+		"id" : 8,
+		"manpower" : 91,
+		"ammo" : 400,
+		"rations" : 400,
+		"parts" : 30,
+		"name" : "AR Recipe"
+	},
+	{
+		"id" : 9,
+		"manpower" : 800,
+		"ammo" : 800,
+		"rations" : 100,
+		"parts" : 400,
+		"name" : "MG Recipe"
+	}
+]}
