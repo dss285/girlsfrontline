@@ -7,11 +7,11 @@ var fetchEquipment = async () => {
     return await data.json()
 }
 var fetchFairies = async () => {
-    let data = await fetch("/gfl_fairies.json")
+    let data = await fetch("https://dss285.github.io/girlsfrontline/gfl_fairies.json")
     return await data.json()
 }
 var fetchRecipes = async () => {
-    let data = await fetch("/gfl_recipes.json")
+    let data = await fetch("https://dss285.github.io/girlsfrontline/gfl_recipes.json")
     return await data.json()
 }
 var productionDollsDOM = (dolls) => {
