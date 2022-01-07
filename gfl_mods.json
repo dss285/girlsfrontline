@@ -1,5 +1,4 @@
-{
-"gfl_mods": [
+[
 	{
 		"id" : 1,
 		"doll_id" : 45,
@@ -18,4 +17,4 @@
 		"formation_bonus" : "Affects SMG\\r\\nIncreases damage by 45%",
 		"formation_tiles" : "002\\r\\n012\\r\\n000"
 	}
-]}
+]

@@ -1,5 +1,4 @@
-{
-"gfl_dolls": [
+[
 	{
 		"id" : 1,
 		"name" : "43M",
@@ -4290,4 +4289,4 @@
 		"aliases" : null,
 		"recipe_id" : null
 	}
-]}
+]

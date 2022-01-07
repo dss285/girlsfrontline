@@ -1,5 +1,4 @@
-{
-"gfl_equipment": [
+[
 	{
 		"id" : 1,
 		"name" : "IOP Maximum Ammo Box ⭐⭐⭐⭐⭐",
@@ -638,4 +637,4 @@
 		"doll_id" : 45,
 		"recipe_id" : null
 	}
-]}
+]

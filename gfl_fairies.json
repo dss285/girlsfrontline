@@ -1,5 +1,4 @@
-{
-"gfl_fairies": [
+[
 	{
 		"id" : 1,
 		"name" : "Warrior Fairy",
@@ -200,4 +199,4 @@
 		"production_timer" : 16800,
 		"recipe_id" : 1
 	}
-]}
+]

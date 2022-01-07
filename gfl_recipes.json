@@ -1,5 +1,4 @@
-{
-"gfl_recipes": [
+[
 	{
 		"id" : 1,
 		"manpower" : 500,
@@ -72,4 +71,4 @@
 		"parts" : 400,
 		"name" : "MG Recipe"
 	}
-]}
+]
