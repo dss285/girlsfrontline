@@ -1,9 +1,9 @@
 var fetchDolls = async () => {
-    let data = await fetch("/gfl_dolls.json")
+    let data = await fetch("https://dss285.github.io/girlsfrontline/gfl_dolls.json")
     return await data.json()
 }
 var fetchEquipment = async () => {
-    let data = await fetch("/gfl_equipment.json")
+    let data = await fetch("https://dss285.github.io/girlsfrontline/gfl_equipment.json")
     return await data.json()
 }
 var fetchFairies = async () => {
