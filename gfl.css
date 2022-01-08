@@ -2,14 +2,19 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgba(44, 44, 44, 1);
 }
-.production-dolls {
+.gfl-container {
     display: flex;
     flex-flow: row nowrap;
 }
-.production-dolls > * {
-    flex-basis: 10%;
+.gfl-container > * {
+    flex-basis: 25%;
+}
+.production-dolls {
+    margin: 0;
+    padding: 0;
 }
 .production-dolls ul {
+    margin: 0;
     color:rgb(0, 192, 166);
     background-color: rgba(55, 55, 55, 1);
     padding: 0;
