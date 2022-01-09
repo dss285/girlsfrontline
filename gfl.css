@@ -5,13 +5,13 @@ body {
 }
 .gfl-container {
     display: flex;
-    flex-flow: row nowrap;
+    flex-flow: row wrap;
     justify-content: center;
 }
 .gfl-container > * {
-    flex-basis: 25%;
+    flex-basis: 20%;
     margin: 1%;
-    padding: 0;
+    
 }
 .gfl-container > * > ul {
     margin: 0;
@@ -24,6 +24,7 @@ body {
     list-style: none;
 }
 .gfl-container > * > ul > li {
+    padding: 1%;
     border: 1px solid black;
 }
 /* .production-dolls {
